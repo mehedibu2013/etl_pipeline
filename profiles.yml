@@ -1,0 +1,12 @@
+dev:
+  outputs:
+    local_pg:
+      type: postgres
+      host: localhost
+      port: 5432
+      user: postgres
+      password: postgres
+      dbname: etl_db
+      schema: public
+
+  target: local_pg

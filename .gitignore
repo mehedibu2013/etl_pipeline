@@ -1,0 +1,24 @@
+# Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+
+# Logs
+*.log
+logs/
+*.csv
+*.sqlite
+*.dbt
+
+# IDEs
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# dbt artifacts
+dbt/target/
+dbt/logs/

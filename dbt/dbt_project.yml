@@ -1,0 +1,6 @@
+name: 'example_dbt'
+version: '1.0.0'
+
+profile: 'dev'
+
+model-paths: ["models"]
