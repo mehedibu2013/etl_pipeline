@@ -1,5 +1,3 @@
-Here's the **complete `README.md`** for your ETL pipeline project, tailored to your setup on **Windows**, using **Dagster**, **dbt**, and **PostgreSQL**.
-
 ---
 
 # 🧾 ETL Pipeline with Dagster, dbt & PostgreSQL
