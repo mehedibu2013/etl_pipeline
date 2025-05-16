@@ -1,4 +1,3 @@
----
 
 # 🧾 ETL Pipeline with Dagster, dbt & PostgreSQL
 
